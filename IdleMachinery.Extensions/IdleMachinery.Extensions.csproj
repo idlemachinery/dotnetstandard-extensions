@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Andrew Miller</Authors>
+    <Company>Idle Machinery</Company>
+    <PackageProjectUrl>https://github.com/idlemachinery/ExtensionLibrary</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/idlemachinery/ExtensionLibrary/blob/master/LICENSE</PackageLicenseUrl>
+    <RepositoryUrl>https://github.com/idlemachinery/ExtensionLibrary</RepositoryUrl>
+    <Copyright>Copyright © 2019</Copyright>
+    <Description>Extension Library for .NET Standard 2.0.3</Description>
+  </PropertyGroup>
+
+</Project>
